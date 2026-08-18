@@ -26,6 +26,9 @@ Target:
 
 - `charges` — medical insurance cost
 
+Url:
+- https://www.kaggle.com/datasets/mirichoi0218/insurance
+
 # What I did
 
 In this project I worked with:
